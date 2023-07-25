@@ -1,0 +1,29 @@
+.addProducts{
+    align-items: center;
+    margin-left: 70px;
+    width: 90%;
+    border: 2px;
+    border-radius: 10px;
+    height:200px;
+    background-color:rgba(0, 0, 0, 0.87);
+}
+.input{
+  margin-top: 10px;
+}
+.txt{
+    color: rgb(211, 165, 37);
+    font-weight: 600;
+}
+
+.searchProducts{
+    align-items: center;
+    margin: 50px;
+    margin-left: 70px;
+    width: 90%;
+    border: 2px;
+    
+    border-radius: 10px;
+    height:150px;
+    background-color:rgba(0, 0, 0, 0.87);
+}
+
